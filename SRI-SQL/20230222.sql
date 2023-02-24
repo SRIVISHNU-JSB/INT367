@@ -58,7 +58,7 @@ SELECT * FROM CUSTOMER NATURAL JOIN ORDER1;
 
 
 
-
+/*
 create table employee1(fname varchar2(10),lname varchar2(10),
 empid number(10),loc varchar2(10),salary number(10));
 
@@ -75,7 +75,7 @@ insert into emp_per values('Alok',52);
 
 select * from employee1;
 
-
+*/
 
 
 
